@@ -1,4 +1,4 @@
-### Hi there 👋
+# print('Hello world 👋')
 
 💻 - I’m currently learning Machine Learning
 
